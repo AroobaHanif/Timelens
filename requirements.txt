@@ -1,0 +1,5 @@
+# TimeLens has no external runtime dependencies.
+# It uses only the Python standard library (tkinter, sqlite3, ctypes, etc.).
+#
+# PyInstaller is only required to build the standalone .exe:
+#     pip install pyinstaller

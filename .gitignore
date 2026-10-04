@@ -1,0 +1,11 @@
+# PyInstaller build artifacts
+build/
+dist/
+*.spec
+
+# Python caches
+__pycache__/
+*.pyc
+
+# Local database (lives in %APPDATA%\TimeLens at runtime, but ignore any stray copies)
+*.db
